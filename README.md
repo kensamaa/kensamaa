@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning about AI and machine learning 
 
-- 📫 reach me at:amineab203@gmail.com
+- 📫 reach me at: amineab203@gmail.com
 
 - ⚡ Fun fact: i hate designing ui 😄😄
 <!--
