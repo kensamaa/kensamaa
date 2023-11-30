@@ -4,7 +4,21 @@
 
 - 📫 reach me at: amineab203@gmail.com
 
-- ⚡ Fun fact: i hate designing ui 😄😄
+### 🧰 Languages and Tools
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/355038/golang.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/369457/nextjs.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/280604/hashtag-c-sharp.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="flutter" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353751/flutter.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452192/docker.svg" />
+<img align="left" alt="azure" width="50px" style="padding-right:5px;padding-bottom:10px;" src="https://www.svgrepo.com/show/353464/azure.svg" />
+<br /><br />
+
 
 <a href="[https://github.com/radendi](https://github.com/kensamaa)" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kensamaa&count_private=true&show_icons=true&theme=chartreuse-dark" />
